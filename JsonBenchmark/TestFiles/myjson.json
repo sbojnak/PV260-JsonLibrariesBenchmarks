@@ -1,0 +1,20 @@
+﻿  {
+    "_id": "5afaf47ce3aff4f04328944b",
+    "index": 0,
+    "guid": "ab17f476-3055-4b95-b59f-c99ee909b907",
+    "isActive": true,
+    "balance": "$3,172.38",
+    "picture": "http://placehold.it/32x32",
+    "age": 21,
+    "eyeColor": "blue",
+    "name": "Carolyn Pierce",
+    "gender": "female",
+    "company": "NAMEGEN",
+    "email": "carolynpierce@namegen.com",
+    "phone": "+1 (859) 404-3472",
+    "address": "183 Bragg Street, Oasis, Arizona, 8351",
+    "about": "Qui duis in nulla do reprehenderit consectetur. Non minim cupidatat enim sint consequat eu. In non commodo reprehenderit duis reprehenderit consequat sit irure incididunt mollit. Dolor ipsum amet enim nulla Lorem. Eiusmod do deserunt amet elit eu mollit sint sit eu officia officia consectetur amet. Consectetur culpa laboris exercitation tempor aliqua veniam consequat excepteur fugiat sunt nulla incididunt do. Esse consequat nostrud aute officia nulla cillum exercitation enim.\r\n",
+    "registered": "2016-05-01T10:01:21 -02:00",
+    "latitude": -39.010393,
+    "longitude": -0.569069
+  }
